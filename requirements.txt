@@ -1,0 +1,9 @@
+# Environment and Configuration
+python-dotenv
+
+# Core ADK dependencies (These were not explicitly shown as missing,
+google-adk
+google-genai
+playwright
+beautifulsoup4
+requests

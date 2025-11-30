@@ -1,0 +1,12 @@
+# Python environment files
+__pycache__/
+*.pyc
+venv/
+.venv/
+.mypy_cache/
+
+# Sensitive API Keys
+.env
+*.env
+# If you didn't use an .env file, specify the variable names
+# GOOGLE_API_KEY
